@@ -1,0 +1,5 @@
+lrwxr-xr-x    1 cthom85  BHNETWORK\Domain Users      47 Feb 20  2014 /Users/cthom85/.tmux.conf -> /Users/cthom85/square/maximum-awesome/tmux.conf
+lrwxr-xr-x    1 cthom85  BHNETWORK\Domain Users      41 Feb 20  2014 /Users/cthom85/.vim -> /Users/cthom85/square/maximum-awesome/vim
+lrwxr-xr-x    1 cthom85  BHNETWORK\Domain Users      41 Dec  9 11:33 /Users/cthom85/.vimrc -> /Users/cthom85/github.com/musicbeat/vimrc
+lrwxr-xr-x    1 cthom85  BHNETWORK\Domain Users      51 Feb 20  2014 /Users/cthom85/.vimrc.bundles -> /Users/cthom85/square/maximum-awesome/vimrc.bundles
+lrwxr-xr-x    1 cthom85  BHNETWORK\Domain Users      47 Dec  9 11:34 /Users/cthom85/.vimrc.local -> /Users/cthom85/github.com/musicbeat/vimrc.local
